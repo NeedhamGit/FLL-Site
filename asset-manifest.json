@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FLL-Site/static/css/main.65d2c323.css",
+    "main.css": "/FLL-Site/static/css/main.041e6b3c.css",
     "main.js": "/FLL-Site/static/js/main.c265d2ee.js",
     "static/js/453.c8002be8.chunk.js": "/FLL-Site/static/js/453.c8002be8.chunk.js",
     "static/media/demo_up.mp4": "/FLL-Site/static/media/demo_up.badd4230f4ddc259d63c.mp4",
@@ -8,12 +8,12 @@
     "static/media/gimbalFrame.jpg": "/FLL-Site/static/media/gimbalFrame.06807dcd1f293ca574e0.jpg",
     "static/media/ArtifactArmorLogo.png": "/FLL-Site/static/media/ArtifactArmorLogo.0d10c80a517d7de8d201.png",
     "index.html": "/FLL-Site/index.html",
-    "main.65d2c323.css.map": "/FLL-Site/static/css/main.65d2c323.css.map",
+    "main.041e6b3c.css.map": "/FLL-Site/static/css/main.041e6b3c.css.map",
     "main.c265d2ee.js.map": "/FLL-Site/static/js/main.c265d2ee.js.map",
     "453.c8002be8.chunk.js.map": "/FLL-Site/static/js/453.c8002be8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65d2c323.css",
+    "static/css/main.041e6b3c.css",
     "static/js/main.c265d2ee.js"
   ]
 }
